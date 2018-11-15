@@ -1,0 +1,7 @@
+<template name="b6676c0a">
+  <view class="_view data-v-ed7bcbbe index">
+    <view class="_view data-v-ed7bcbbe img">
+      <image src="/C:/Users/zjm/Documents/HBuilderProjects/demo_zjm_uni/static/bar_pic1.jpg" alt class="_img data-v-ed7bcbbe"></image>
+    </view>
+  </view>
+</template>
