@@ -1,8 +1,3 @@
-# UNI-APP 图片模板
-<p align="center">
-    <img src="http://img-cdn-qiniu.dcloud.net.cn/uniapp/template/new.png" width="200"/>
-    <img src="http://img-cdn-qiniu.dcloud.net.cn/uniapp/template/hot.png" width="200"/>
-</p>
 
 
 ## 运行方式
